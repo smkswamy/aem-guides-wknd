@@ -80,4 +80,9 @@
             </container>
         </root>
     </jcr:content>
+    <magazine/>
+    <adventures/>
+    <faqs/>
+    <about-us/>
+    <tools/>
 </jcr:root>
